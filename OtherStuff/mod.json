@@ -1,7 +1,0 @@
-name: OtherStuff
-displayName: OtherStuff
-author: im too lazy
-description: Stuff I added in this mod for fun.
-version: "Test"
-minGameVersion: "136"
-dependencies: [ ]
